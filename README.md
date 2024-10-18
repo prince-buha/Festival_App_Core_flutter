@@ -25,7 +25,27 @@ Here's a simple model class to represent a festival in the app:
 
 ## 📸 Screen Shorts 
 
--
+- ### SpleshScreen
+ <img src="https://github.com/user-attachments/assets/97238cfd-d180-41d3-9fa1-3e7217ac947f" width="250">
+
+- ### SinginPage
+ <img src="https://github.com/user-attachments/assets/97103450-9b1b-40fd-9d7f-a846b2ef4ff1" width="250">
+
+ - ### AllPostPage
+
+ <img src="https://github.com/user-attachments/assets/08755cfe-7ceb-425b-97ce-467e4603811e" width="250">
+
+ - ### DetailPage
+<img src="https://github.com/user-attachments/assets/ebe87437-e121-4095-8ce8-ca6dde5b307b" width="250">
+
+ - ### DownloadPage
+<img src="https://github.com/user-attachments/assets/d8e14d53-59d8-46da-90a3-347f0f92afa0" width="250">
+
+ - ### SharePage
+<img src="https://github.com/user-attachments/assets/dc938d41-8b1d-486f-8272-607a38f7fc81" width="250">
+
+
+ 
 
 
 
