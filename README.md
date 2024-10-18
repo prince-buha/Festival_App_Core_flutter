@@ -48,7 +48,7 @@ Here's a simple model class to represent a festival in the app:
 <img src="https://github.com/user-attachments/assets/b253cc14-c870-4a65-9764-6c107438278b" width="250">
 
  ## 📽️ Video 
-
+https://github.com/user-attachments/assets/51e7e031-8dba-49e0-8ab0-e4f30ca2871e
 
  ## Follow
  LinkedIn  = "https://www.linkedin.com/in/prince-buha-9674a22b2/"
